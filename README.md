@@ -11,6 +11,9 @@ The Angular Application :
 
 With our demo Spring Boot application up and running, the Angular application, capable of consuming the REST controller API.
 It is possible de view all data or to use an index to search one object. There is also another service, based on a key-value search criteria. In addition, a delete and update operations are available to modify objects list content. An integrity check is added before every process to control input parameters.
+
+
+
 Angular Dependencies
 
     PrimeNg
